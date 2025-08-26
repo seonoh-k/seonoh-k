@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=350&color=0:55B9DD,100:71E723&text=KIM%20SEON%20OH&fontColor=B8B8B8&reversal=false)
 
 [![한국어](https://img.shields.io/badge/한국어-B8B8B8?style=for-the-badge)](README_JP.md) 
-[![English](https://img.shields.io/badge/English-B8B8B8?style=for-the-badge)](README_EN.md)
+[![日本語](https://img.shields.io/badge/日本語-B8B8B8?style=for-the-badge)](README_JP.md) 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFFFFF?style=for-the-badge&logo=Vercel&logoColor=black)](https://www.ksn-portfolio.com/)
 
